@@ -1,0 +1,17 @@
+Topology of DHCP
+
+When you are configuring 1 router, 1 server, 3 pcs, to 1 switch " sometimes you may come accross as "connection error: "the cable cannot be connected to the port" ".
+
+then go to switch and open it by double clicking on it.
+
+the go to physical
+
+then turn off the switch
+
+then to the right buttom corner you will find ports drag it and drop it to one of the empty slots
+
+then turn on the switch
+
+then try connecting the rest of the devices to switch
+
+if you are getting the same error then try performing the same steps again.
